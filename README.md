@@ -37,6 +37,7 @@ Using Power BI and Power Query, raw survey data was cleaned, transformed, and vi
 • Removed unnecessary columns and optimized data structure using Power Query.
 
 • Prepared raw survey data for accurate reporting and visualization.
+
 2. Dashboard Analysis
 
 • Salary analysis by job role.
@@ -50,6 +51,7 @@ Using Power BI and Power Query, raw survey data was cleaned, transformed, and vi
 • Work-life balance and salary satisfaction metrics.
 
 • Difficulty of entering the data profession.
+
 3. Power BI Skills Demonstrated
 
 • Power Query
